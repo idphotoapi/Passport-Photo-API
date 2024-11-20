@@ -1,6 +1,6 @@
 # Passport Photo API by IdPhoto.AI  
 
-The **[Passport Photo API]((https://idphoto.ai))** from [IdPhoto.AI](https://idphoto.ai) is an all-in-one solution for generating ID photos with a single API call. It simplifies the process of creating passport, visa, and ID photos by handling background removal, cropping, resizing, and specification adjustments automatically.  
+The **[Passport Photo API](https://idphoto.ai)** from [IdPhoto.AI](https://idphoto.ai) is an all-in-one solution for generating ID photos with a single API call. It simplifies the process of creating passport, visa, and ID photos by handling background removal, cropping, resizing, and specification adjustments automatically.  
 
 ---
 
